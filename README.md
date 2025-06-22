@@ -20,8 +20,12 @@ Dynamic Programming
 Greedy Algorithms
 Backtracking
 Graph Algorithms (DFS, BFS, Dijkstra's, etc.)
+
 Features
 Code Implementations: Well-documented Java code for various data structures and algorithms.
+
 Performance Analysis: Time and space complexity analysis for each algorithm.
+
 Visualizations: Diagrams and visualizations of data structures and processes.
+
 Practice Problems: Links to coding platforms and problems to further practice concepts.
