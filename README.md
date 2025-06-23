@@ -1,4 +1,4 @@
-# DSA_JAVA
+# DSA JAVA
 Data Structures and Algorithms in Java
 Overview
 This repository is dedicated to my journey of learning Data Structures and Algorithms (DSA) using the Java programming language. It contains implementations, explanations, and practice problems that I have encountered while mastering these essential concepts. My goal is to build a solid foundation in DSA, which is crucial for software development, competitive programming, and technical interviews.
