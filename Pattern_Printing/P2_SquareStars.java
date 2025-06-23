@@ -1,22 +1,18 @@
-//Loop ke andar Loop
-//Rectangle Printing
 package PatternPrinting_Stage1_Square_and_Rectangle;
 
 import java.util.Scanner;
 
-public class NestedLoops {
+public class P2_SquareStars {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int row = sc.nextInt();
-        int col = sc.nextInt();
-        for (int i = 1; i <=row ; i++) { // number of lines
-            for (int j = 1; j <=col ; j++) { //number of star in each lines
+
+        for (int i = 1; i <= row; i++) {
+            for (int j = 1; j <= row; j++) {
                 System.out.print("* ");
 
             }
             System.out.println();
-
         }
-
     }
 }
